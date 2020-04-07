@@ -10,9 +10,9 @@ Personal Collection of usefull files and other stuff for my 3D-Printing Setup.
 * [PrusaSlicer](https://www.prusa3d.com/prusaslicer/)
 
 ## Profiles
-Some PrusaSlicer profiles which works best for me. Copy to:\
+Some PrusaSlicer profiles which works best for me. On macOS copy the files to:\
 `~/Library/Application Support/PrusaSlicer/`
 
 ## Models
-Visualize Ender 3 in PrusaSlicer. Copy to:\
+Visualize Ender 3 in PrusaSlicer. On macOS copy the files to:\
 `/Applications/Original Prusa Drivers/PrusaSlicer.app/Contents/Resources/models/`
